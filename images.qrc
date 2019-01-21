@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>missile.png</file>
+        <file>mechant.png</file>
+        <file>vaisseau_allie2.png</file>
+        <file>fond.png</file>
+        <file>Meteorite.png</file>
+    </qresource>
+</RCC>
